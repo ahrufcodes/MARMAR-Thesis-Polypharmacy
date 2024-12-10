@@ -1,0 +1,300 @@
+2024-11-04 17:55:11,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:55:11,956 - INFO - Iteration 1: API call successful.
+2024-11-04 17:55:11,956 - INFO - Iteration 1: JSON parsed successfully.
+2024-11-04 17:55:39,329 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:55:39,337 - INFO - Iteration 2: API call successful.
+2024-11-04 17:55:39,337 - INFO - Iteration 2: JSON parsed successfully.
+2024-11-04 17:56:11,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:56:11,375 - INFO - Iteration 3: API call successful.
+2024-11-04 17:56:11,375 - INFO - Iteration 3: JSON parsed successfully.
+2024-11-04 17:56:37,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:56:37,388 - INFO - Iteration 4: API call successful.
+2024-11-04 17:56:37,388 - INFO - Iteration 4: JSON parsed successfully.
+2024-11-04 17:56:59,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:56:59,676 - INFO - Iteration 5: API call successful.
+2024-11-04 17:56:59,676 - INFO - Iteration 5: JSON parsed successfully.
+2024-11-04 17:57:34,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:57:34,089 - INFO - Iteration 6: API call successful.
+2024-11-04 17:57:34,089 - INFO - Iteration 6: JSON parsed successfully.
+2024-11-04 17:57:59,304 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:57:59,310 - INFO - Iteration 7: API call successful.
+2024-11-04 17:57:59,310 - INFO - Iteration 7: JSON parsed successfully.
+2024-11-04 17:58:32,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:58:32,544 - INFO - Iteration 8: API call successful.
+2024-11-04 17:58:32,544 - INFO - Iteration 8: JSON parsed successfully.
+2024-11-04 17:59:00,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:59:00,968 - INFO - Iteration 9: API call successful.
+2024-11-04 17:59:00,968 - INFO - Iteration 9: JSON parsed successfully.
+2024-11-04 17:59:30,397 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:59:30,400 - INFO - Iteration 10: API call successful.
+2024-11-04 17:59:30,400 - INFO - Iteration 10: JSON parsed successfully.
+2024-11-04 17:59:56,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 17:59:56,420 - INFO - Iteration 11: API call successful.
+2024-11-04 17:59:56,420 - INFO - Iteration 11: JSON parsed successfully.
+2024-11-04 18:00:38,561 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:00:38,566 - INFO - Iteration 12: API call successful.
+2024-11-04 18:00:38,566 - INFO - Iteration 12: JSON parsed successfully.
+2024-11-04 18:01:15,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:01:15,458 - INFO - Iteration 13: API call successful.
+2024-11-04 18:01:15,458 - INFO - Iteration 13: JSON parsed successfully.
+2024-11-04 18:01:44,340 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:01:44,345 - INFO - Iteration 14: API call successful.
+2024-11-04 18:01:44,345 - INFO - Iteration 14: JSON parsed successfully.
+2024-11-04 18:02:15,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:02:15,782 - INFO - Iteration 15: API call successful.
+2024-11-04 18:02:15,782 - INFO - Iteration 15: JSON parsed successfully.
+2024-11-04 18:02:45,830 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:02:45,837 - INFO - Iteration 16: API call successful.
+2024-11-04 18:02:45,837 - INFO - Iteration 16: JSON parsed successfully.
+2024-11-04 18:03:15,949 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:03:15,956 - INFO - Iteration 17: API call successful.
+2024-11-04 18:03:15,957 - INFO - Iteration 17: JSON parsed successfully.
+2024-11-04 18:03:39,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:03:39,265 - INFO - Iteration 18: API call successful.
+2024-11-04 18:03:39,266 - INFO - Iteration 18: JSON parsed successfully.
+2024-11-04 18:04:11,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:04:11,563 - INFO - Iteration 19: API call successful.
+2024-11-04 18:04:11,563 - INFO - Iteration 19: JSON parsed successfully.
+2024-11-04 18:04:39,235 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:04:39,240 - INFO - Iteration 20: API call successful.
+2024-11-04 18:04:39,240 - INFO - Iteration 20: JSON parsed successfully.
+2024-11-04 18:05:11,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:05:11,192 - INFO - Iteration 21: API call successful.
+2024-11-04 18:05:11,192 - INFO - Iteration 21: JSON parsed successfully.
+2024-11-04 18:05:35,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:05:35,575 - INFO - Iteration 22: API call successful.
+2024-11-04 18:05:35,575 - INFO - Iteration 22: JSON parsed successfully.
+2024-11-04 18:06:07,811 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:06:07,818 - INFO - Iteration 23: API call successful.
+2024-11-04 18:06:07,818 - INFO - Iteration 23: JSON parsed successfully.
+2024-11-04 18:06:52,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:06:52,052 - INFO - Iteration 24: API call successful.
+2024-11-04 18:06:52,052 - INFO - Iteration 24: JSON parsed successfully.
+2024-11-04 18:07:23,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:07:23,079 - INFO - Iteration 25: API call successful.
+2024-11-04 18:07:23,080 - INFO - Iteration 25: JSON parsed successfully.
+2024-11-04 18:07:57,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:07:57,866 - INFO - Iteration 26: API call successful.
+2024-11-04 18:07:57,867 - INFO - Iteration 26: JSON parsed successfully.
+2024-11-04 18:08:30,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:08:30,458 - INFO - Iteration 27: API call successful.
+2024-11-04 18:08:30,459 - INFO - Iteration 27: JSON parsed successfully.
+2024-11-04 18:09:02,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:09:02,417 - INFO - Iteration 28: API call successful.
+2024-11-04 18:09:02,417 - INFO - Iteration 28: JSON parsed successfully.
+2024-11-04 18:09:32,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:09:32,818 - INFO - Iteration 29: API call successful.
+2024-11-04 18:09:32,818 - INFO - Iteration 29: JSON parsed successfully.
+2024-11-04 18:10:06,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:10:06,034 - INFO - Iteration 30: API call successful.
+2024-11-04 18:10:06,034 - INFO - Iteration 30: JSON parsed successfully.
+2024-11-04 18:10:37,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:10:37,538 - INFO - Iteration 31: API call successful.
+2024-11-04 18:10:37,538 - INFO - Iteration 31: JSON parsed successfully.
+2024-11-04 18:11:09,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:11:11,431 - INFO - Iteration 32: API call successful.
+2024-11-04 18:11:11,431 - INFO - Iteration 32: JSON parsed successfully.
+2024-11-04 18:11:43,395 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:11:43,399 - INFO - Iteration 33: API call successful.
+2024-11-04 18:11:43,399 - INFO - Iteration 33: JSON parsed successfully.
+2024-11-04 18:12:17,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:12:17,857 - INFO - Iteration 34: API call successful.
+2024-11-04 18:12:17,858 - INFO - Iteration 34: JSON parsed successfully.
+2024-11-04 18:12:47,582 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:12:47,589 - INFO - Iteration 35: API call successful.
+2024-11-04 18:12:47,590 - INFO - Iteration 35: JSON parsed successfully.
+2024-11-04 18:13:19,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:13:19,606 - INFO - Iteration 36: API call successful.
+2024-11-04 18:13:19,606 - INFO - Iteration 36: JSON parsed successfully.
+2024-11-04 18:13:44,265 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:13:44,271 - INFO - Iteration 37: API call successful.
+2024-11-04 18:13:44,271 - INFO - Iteration 37: JSON parsed successfully.
+2024-11-04 18:14:17,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:14:17,507 - INFO - Iteration 38: API call successful.
+2024-11-04 18:14:17,508 - INFO - Iteration 38: JSON parsed successfully.
+2024-11-04 18:14:50,163 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:14:50,172 - INFO - Iteration 39: API call successful.
+2024-11-04 18:14:50,173 - INFO - Iteration 39: JSON parsed successfully.
+2024-11-04 18:15:20,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:15:20,609 - INFO - Iteration 40: API call successful.
+2024-11-04 18:15:20,609 - INFO - Iteration 40: JSON parsed successfully.
+2024-11-04 18:15:45,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:15:45,679 - INFO - Iteration 41: API call successful.
+2024-11-04 18:15:45,679 - INFO - Iteration 41: JSON parsed successfully.
+2024-11-04 18:16:18,223 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:16:18,230 - INFO - Iteration 42: API call successful.
+2024-11-04 18:16:18,230 - INFO - Iteration 42: JSON parsed successfully.
+2024-11-04 18:16:47,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:16:47,433 - INFO - Iteration 43: API call successful.
+2024-11-04 18:16:47,433 - INFO - Iteration 43: JSON parsed successfully.
+2024-11-04 18:17:14,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:17:14,864 - INFO - Iteration 44: API call successful.
+2024-11-04 18:17:14,864 - INFO - Iteration 44: JSON parsed successfully.
+2024-11-04 18:17:45,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:17:45,990 - INFO - Iteration 45: API call successful.
+2024-11-04 18:17:45,990 - INFO - Iteration 45: JSON parsed successfully.
+2024-11-04 18:18:15,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:18:15,488 - INFO - Iteration 46: API call successful.
+2024-11-04 18:18:15,488 - INFO - Iteration 46: JSON parsed successfully.
+2024-11-04 18:18:42,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:18:42,105 - INFO - Iteration 47: API call successful.
+2024-11-04 18:18:42,105 - INFO - Iteration 47: JSON parsed successfully.
+2024-11-04 18:19:12,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:19:12,010 - INFO - Iteration 48: API call successful.
+2024-11-04 18:19:12,010 - INFO - Iteration 48: JSON parsed successfully.
+2024-11-04 18:19:40,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:19:40,136 - INFO - Iteration 49: API call successful.
+2024-11-04 18:19:40,136 - INFO - Iteration 49: JSON parsed successfully.
+2024-11-04 18:20:06,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:20:06,934 - INFO - Iteration 50: API call successful.
+2024-11-04 18:20:06,935 - INFO - Iteration 50: JSON parsed successfully.
+2024-11-04 18:20:34,632 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:20:34,638 - INFO - Iteration 51: API call successful.
+2024-11-04 18:20:34,638 - INFO - Iteration 51: JSON parsed successfully.
+2024-11-04 18:21:05,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:21:05,009 - INFO - Iteration 52: API call successful.
+2024-11-04 18:21:05,009 - INFO - Iteration 52: JSON parsed successfully.
+2024-11-04 18:21:34,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:21:34,872 - INFO - Iteration 53: API call successful.
+2024-11-04 18:21:34,872 - INFO - Iteration 53: JSON parsed successfully.
+2024-11-04 18:22:00,304 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:22:00,311 - INFO - Iteration 54: API call successful.
+2024-11-04 18:22:00,312 - INFO - Iteration 54: JSON parsed successfully.
+2024-11-04 18:22:23,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:22:23,192 - INFO - Iteration 55: API call successful.
+2024-11-04 18:22:23,192 - INFO - Iteration 55: JSON parsed successfully.
+2024-11-04 18:22:55,135 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:22:55,142 - INFO - Iteration 56: API call successful.
+2024-11-04 18:22:55,142 - INFO - Iteration 56: JSON parsed successfully.
+2024-11-04 18:23:20,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:23:20,960 - INFO - Iteration 57: API call successful.
+2024-11-04 18:23:20,961 - INFO - Iteration 57: JSON parsed successfully.
+2024-11-04 18:23:54,324 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:23:54,330 - INFO - Iteration 58: API call successful.
+2024-11-04 18:23:54,330 - INFO - Iteration 58: JSON parsed successfully.
+2024-11-04 18:24:25,191 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:24:25,196 - INFO - Iteration 59: API call successful.
+2024-11-04 18:24:25,196 - INFO - Iteration 59: JSON parsed successfully.
+2024-11-04 18:24:56,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:24:56,547 - INFO - Iteration 60: API call successful.
+2024-11-04 18:24:56,551 - INFO - Iteration 60: JSON parsed successfully.
+2024-11-04 18:25:24,561 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:25:24,567 - INFO - Iteration 61: API call successful.
+2024-11-04 18:25:24,567 - INFO - Iteration 61: JSON parsed successfully.
+2024-11-04 18:25:49,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:25:49,408 - INFO - Iteration 62: API call successful.
+2024-11-04 18:25:49,409 - INFO - Iteration 62: JSON parsed successfully.
+2024-11-04 18:26:19,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:26:19,216 - INFO - Iteration 63: API call successful.
+2024-11-04 18:26:19,217 - INFO - Iteration 63: JSON parsed successfully.
+2024-11-04 18:26:51,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:26:51,071 - INFO - Iteration 64: API call successful.
+2024-11-04 18:26:51,071 - INFO - Iteration 64: JSON parsed successfully.
+2024-11-04 18:27:23,954 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:27:23,958 - INFO - Iteration 65: API call successful.
+2024-11-04 18:27:23,958 - INFO - Iteration 65: JSON parsed successfully.
+2024-11-04 18:27:59,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:27:59,529 - INFO - Iteration 66: API call successful.
+2024-11-04 18:27:59,529 - INFO - Iteration 66: JSON parsed successfully.
+2024-11-04 18:28:31,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:28:31,646 - INFO - Iteration 67: API call successful.
+2024-11-04 18:28:31,646 - INFO - Iteration 67: JSON parsed successfully.
+2024-11-04 18:29:01,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:29:01,266 - INFO - Iteration 68: API call successful.
+2024-11-04 18:29:01,266 - INFO - Iteration 68: JSON parsed successfully.
+2024-11-04 18:29:32,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:29:32,900 - INFO - Iteration 69: API call successful.
+2024-11-04 18:29:32,900 - INFO - Iteration 69: JSON parsed successfully.
+2024-11-04 18:30:07,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:30:07,780 - INFO - Iteration 70: API call successful.
+2024-11-04 18:30:07,781 - INFO - Iteration 70: JSON parsed successfully.
+2024-11-04 18:30:41,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:30:41,404 - INFO - Iteration 71: API call successful.
+2024-11-04 18:30:41,404 - INFO - Iteration 71: JSON parsed successfully.
+2024-11-04 18:31:12,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:31:12,117 - INFO - Iteration 72: API call successful.
+2024-11-04 18:31:12,117 - INFO - Iteration 72: JSON parsed successfully.
+2024-11-04 18:31:48,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:31:48,689 - INFO - Iteration 73: API call successful.
+2024-11-04 18:31:48,689 - INFO - Iteration 73: JSON parsed successfully.
+2024-11-04 18:32:18,787 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:32:18,792 - INFO - Iteration 74: API call successful.
+2024-11-04 18:32:18,793 - INFO - Iteration 74: JSON parsed successfully.
+2024-11-04 18:32:49,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:32:49,817 - INFO - Iteration 75: API call successful.
+2024-11-04 18:32:49,818 - INFO - Iteration 75: JSON parsed successfully.
+2024-11-04 18:33:15,898 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:33:15,910 - INFO - Iteration 76: API call successful.
+2024-11-04 18:33:15,911 - INFO - Iteration 76: JSON parsed successfully.
+2024-11-04 18:33:47,830 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:33:47,837 - INFO - Iteration 77: API call successful.
+2024-11-04 18:33:47,838 - INFO - Iteration 77: JSON parsed successfully.
+2024-11-04 18:34:16,969 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:34:16,974 - INFO - Iteration 78: API call successful.
+2024-11-04 18:34:16,975 - INFO - Iteration 78: JSON parsed successfully.
+2024-11-04 18:34:50,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:34:50,040 - INFO - Iteration 79: API call successful.
+2024-11-04 18:34:50,040 - INFO - Iteration 79: JSON parsed successfully.
+2024-11-04 18:35:25,771 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:35:25,778 - INFO - Iteration 80: API call successful.
+2024-11-04 18:35:25,779 - INFO - Iteration 80: JSON parsed successfully.
+2024-11-04 18:35:51,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:35:51,031 - INFO - Iteration 81: API call successful.
+2024-11-04 18:35:51,032 - INFO - Iteration 81: JSON parsed successfully.
+2024-11-04 18:36:19,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:36:19,397 - INFO - Iteration 82: API call successful.
+2024-11-04 18:36:19,398 - INFO - Iteration 82: JSON parsed successfully.
+2024-11-04 18:36:51,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:36:51,295 - INFO - Iteration 83: API call successful.
+2024-11-04 18:36:51,295 - INFO - Iteration 83: JSON parsed successfully.
+2024-11-04 18:37:20,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:37:20,237 - INFO - Iteration 84: API call successful.
+2024-11-04 18:37:20,238 - INFO - Iteration 84: JSON parsed successfully.
+2024-11-04 18:37:50,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:37:50,680 - INFO - Iteration 85: API call successful.
+2024-11-04 18:37:50,680 - INFO - Iteration 85: JSON parsed successfully.
+2024-11-04 18:38:21,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:38:21,195 - INFO - Iteration 86: API call successful.
+2024-11-04 18:38:21,195 - INFO - Iteration 86: JSON parsed successfully.
+2024-11-04 18:38:56,519 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:38:56,526 - INFO - Iteration 87: API call successful.
+2024-11-04 18:38:56,526 - INFO - Iteration 87: JSON parsed successfully.
+2024-11-04 18:39:28,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:39:28,662 - INFO - Iteration 88: API call successful.
+2024-11-04 18:39:28,663 - INFO - Iteration 88: JSON parsed successfully.
+2024-11-04 18:39:58,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:39:58,995 - INFO - Iteration 89: API call successful.
+2024-11-04 18:39:58,995 - INFO - Iteration 89: JSON parsed successfully.
+2024-11-04 18:40:25,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:40:25,128 - INFO - Iteration 90: API call successful.
+2024-11-04 18:40:25,128 - INFO - Iteration 90: JSON parsed successfully.
+2024-11-04 18:40:56,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:40:57,000 - INFO - Iteration 91: API call successful.
+2024-11-04 18:40:57,000 - INFO - Iteration 91: JSON parsed successfully.
+2024-11-04 18:41:24,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:41:24,753 - INFO - Iteration 92: API call successful.
+2024-11-04 18:41:24,753 - INFO - Iteration 92: JSON parsed successfully.
+2024-11-04 18:41:55,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:41:55,121 - INFO - Iteration 93: API call successful.
+2024-11-04 18:41:55,122 - INFO - Iteration 93: JSON parsed successfully.
+2024-11-04 18:42:27,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:42:27,923 - INFO - Iteration 94: API call successful.
+2024-11-04 18:42:27,923 - INFO - Iteration 94: JSON parsed successfully.
+2024-11-04 18:42:56,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:42:56,394 - INFO - Iteration 95: API call successful.
+2024-11-04 18:42:56,394 - INFO - Iteration 95: JSON parsed successfully.
+2024-11-04 18:43:26,434 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:43:26,440 - INFO - Iteration 96: API call successful.
+2024-11-04 18:43:26,440 - INFO - Iteration 96: JSON parsed successfully.
+2024-11-04 18:43:55,435 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:43:55,441 - INFO - Iteration 97: API call successful.
+2024-11-04 18:43:55,441 - INFO - Iteration 97: JSON parsed successfully.
+2024-11-04 18:44:24,529 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:44:24,535 - INFO - Iteration 98: API call successful.
+2024-11-04 18:44:24,535 - INFO - Iteration 98: JSON parsed successfully.
+2024-11-04 18:44:52,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:44:52,687 - INFO - Iteration 99: API call successful.
+2024-11-04 18:44:52,687 - INFO - Iteration 99: JSON parsed successfully.
+2024-11-04 18:45:21,093 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-04 18:45:21,099 - INFO - Iteration 100: API call successful.
+2024-11-04 18:45:21,099 - INFO - Iteration 100: JSON parsed successfully.

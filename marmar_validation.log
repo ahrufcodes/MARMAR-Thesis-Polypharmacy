@@ -1,0 +1,203 @@
+2024-10-30 20:13:04,735 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:13:04,744 - INFO - Completed analysis for Lisinopril
+2024-10-30 20:13:29,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:13:29,457 - INFO - Completed analysis for Amlodipine
+2024-10-30 20:13:51,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:13:51,220 - INFO - Completed analysis for Metoprolol
+2024-10-30 20:14:14,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:14:14,378 - INFO - Completed analysis for Valsartan
+2024-10-30 20:14:41,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:14:41,034 - INFO - Completed analysis for Hydrochlorothiazide
+2024-10-30 20:15:10,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:15:10,661 - INFO - Completed analysis for Warfarin
+2024-10-30 20:15:35,350 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:15:35,355 - INFO - Completed analysis for Apixaban
+2024-10-30 20:15:55,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:15:55,986 - INFO - Completed analysis for Clopidogrel
+2024-10-30 20:16:20,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:16:20,838 - INFO - Completed analysis for Rivaroxaban
+2024-10-30 20:16:43,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:16:43,463 - INFO - Completed analysis for Dabigatran
+2024-10-30 20:17:11,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:17:11,951 - INFO - Completed analysis for Atorvastatin
+2024-10-30 20:17:39,429 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:17:39,436 - INFO - Completed analysis for Simvastatin
+2024-10-30 20:18:10,208 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:18:10,215 - INFO - Completed analysis for Rosuvastatin
+2024-10-30 20:18:37,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:18:37,018 - INFO - Completed analysis for Pravastatin
+2024-10-30 20:19:12,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:19:12,361 - INFO - Completed analysis for Pitavastatin
+2024-10-30 20:19:46,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:19:46,747 - INFO - Completed analysis for Amiodarone
+2024-10-30 20:20:08,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:20:16,350 - INFO - Completed analysis for Digoxin
+2024-10-30 20:20:42,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:20:42,323 - INFO - Completed analysis for Diltiazem
+2024-10-30 20:21:08,275 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:21:08,277 - INFO - Completed analysis for Verapamil
+2024-10-30 20:21:32,224 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:21:32,227 - INFO - Completed analysis for Spironolactone
+2024-10-30 20:22:08,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:22:08,621 - INFO - Completed analysis for Sertraline
+2024-10-30 20:22:33,596 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:22:33,638 - INFO - Completed analysis for Fluoxetine
+2024-10-30 20:32:34,675 - INFO - Retrying request to /chat/completions in 0.456112 seconds
+2024-10-30 20:32:55,652 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:32:55,674 - INFO - Completed analysis for Venlafaxine
+2024-10-30 20:33:20,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:33:20,399 - INFO - Completed analysis for Duloxetine
+2024-10-30 20:33:44,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:33:44,807 - INFO - Completed analysis for Bupropion
+2024-10-30 20:34:24,064 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:34:24,068 - INFO - Completed analysis for Mirtazapine
+2024-10-30 20:34:51,019 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:34:56,097 - INFO - Completed analysis for Quetiapine
+2024-10-30 20:35:27,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:35:27,147 - INFO - Completed analysis for Risperidone
+2024-10-30 20:36:02,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:36:02,802 - INFO - Completed analysis for Olanzapine
+2024-10-30 20:36:34,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:36:34,501 - INFO - Completed analysis for Haloperidol
+2024-10-30 20:37:05,308 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:37:08,070 - INFO - Completed analysis for Clozapine
+2024-10-30 20:37:39,753 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:37:39,757 - INFO - Completed analysis for Alprazolam
+2024-10-30 20:38:04,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:38:04,125 - INFO - Completed analysis for Diazepam
+2024-10-30 20:38:37,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:38:37,453 - INFO - Completed analysis for Gabapentin
+2024-10-30 20:39:04,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:39:08,021 - INFO - Completed analysis for Pregabalin
+2024-10-30 20:39:39,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:39:42,722 - INFO - Completed analysis for Ciprofloxacin
+2024-10-30 20:40:11,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:40:11,449 - INFO - Completed analysis for Azithromycin
+2024-10-30 20:40:42,424 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:40:42,428 - INFO - Completed analysis for Clarithromycin
+2024-10-30 20:41:07,447 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:41:07,451 - INFO - Completed analysis for Rifampin
+2024-10-30 20:41:35,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:41:35,915 - INFO - Completed analysis for Doxycycline
+2024-10-30 20:42:01,925 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:42:01,928 - INFO - Completed analysis for Amoxicillin
+2024-10-30 20:42:28,477 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:42:28,481 - INFO - Completed analysis for Metronidazole
+2024-10-30 20:42:57,215 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:42:57,224 - INFO - Completed analysis for Fluconazole
+2024-10-30 20:43:32,592 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:43:32,595 - INFO - Completed analysis for Itraconazole
+2024-10-30 20:43:51,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:43:51,145 - INFO - Completed analysis for Voriconazole
+2024-10-30 20:44:15,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:44:17,610 - INFO - Completed analysis for Posaconazole
+2024-10-30 20:44:50,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:44:53,792 - INFO - Completed analysis for Acyclovir
+2024-10-30 20:45:31,179 - INFO - Retrying request to /chat/completions in 0.395850 seconds
+2024-10-30 20:46:09,743 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:46:11,567 - INFO - Completed analysis for Valacyclovir
+2024-10-30 20:46:41,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:46:41,373 - INFO - Completed analysis for Oseltamivir
+2024-10-30 20:47:53,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:48:39,911 - INFO - Completed analysis for Metformin
+2024-10-30 20:49:09,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:49:20,231 - INFO - Completed analysis for Glipizide
+2024-10-30 20:49:49,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:49:49,557 - INFO - Completed analysis for Sitagliptin
+2024-10-30 20:50:23,472 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:50:24,610 - INFO - Completed analysis for Empagliflozin
+2024-10-30 20:50:48,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:50:49,515 - INFO - Completed analysis for Liraglutide
+2024-10-30 20:51:15,685 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:51:16,609 - INFO - Completed analysis for Insulin glargine
+2024-10-30 20:51:50,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:51:53,987 - INFO - Completed analysis for Insulin lispro
+2024-10-30 20:52:23,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:52:23,563 - INFO - Completed analysis for Levothyroxine
+2024-10-30 20:52:44,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:52:44,675 - INFO - Completed analysis for Methimazole
+2024-10-30 20:53:13,001 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:53:24,378 - INFO - Completed analysis for Pioglitazone
+2024-10-30 20:53:50,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:54:35,279 - INFO - Completed analysis for Morphine
+2024-10-30 20:54:58,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:54:58,322 - INFO - Completed analysis for Oxycodone
+2024-10-30 20:55:30,037 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:55:30,125 - INFO - Completed analysis for Tramadol
+2024-10-30 20:55:52,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:55:55,655 - INFO - Completed analysis for Hydromorphone
+2024-10-30 20:56:18,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:56:18,225 - INFO - Completed analysis for Fentanyl
+2024-10-30 20:56:56,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:56:56,235 - INFO - Completed analysis for Ibuprofen
+2024-10-30 20:57:26,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:57:26,566 - INFO - Completed analysis for Celecoxib
+2024-10-30 20:57:55,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:57:55,670 - INFO - Completed analysis for Meloxicam
+2024-10-30 20:58:21,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:58:21,465 - INFO - Completed analysis for Acetaminophen
+2024-10-30 20:58:56,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:58:56,923 - INFO - Completed analysis for Pregabalin
+2024-10-30 20:59:26,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:59:26,619 - INFO - Completed analysis for Omeprazole
+2024-10-30 20:59:56,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 20:59:56,347 - INFO - Completed analysis for Pantoprazole
+2024-10-30 21:00:33,202 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:00:33,232 - INFO - Completed analysis for Esomeprazole
+2024-10-30 21:01:10,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:01:10,648 - INFO - Completed analysis for Famotidine
+2024-10-30 21:01:28,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2024-10-30 21:01:28,559 - INFO - Retrying request to /chat/completions in 0.427266 seconds
+2024-10-30 21:01:57,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:01:57,723 - INFO - Completed analysis for Ondansetron
+2024-10-30 21:02:31,179 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:02:31,204 - INFO - Completed analysis for Metoclopramide
+2024-10-30 21:02:56,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:02:58,067 - INFO - Completed analysis for Dicyclomine
+2024-10-30 21:03:26,263 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:03:26,294 - INFO - Completed analysis for Sulfasalazine
+2024-10-30 21:03:51,591 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:03:51,631 - INFO - Completed analysis for Mesalamine
+2024-10-30 21:04:16,626 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:04:16,692 - INFO - Completed analysis for Prucalopride
+2024-10-30 21:04:41,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:04:41,901 - INFO - Completed analysis for Montelukast
+2024-10-30 21:05:05,057 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:05:05,091 - INFO - Completed analysis for Fluticasone
+2024-10-30 21:05:29,093 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:05:29,098 - INFO - Completed analysis for Budesonide
+2024-10-30 21:05:53,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:05:54,019 - INFO - Completed analysis for Salbutamol
+2024-10-30 21:06:15,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:06:16,871 - INFO - Completed analysis for Tiotropium
+2024-10-30 21:06:43,464 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:06:45,652 - INFO - Completed analysis for Salmeterol
+2024-10-30 21:07:09,436 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:07:09,453 - INFO - Completed analysis for Ipratropium
+2024-10-30 21:07:38,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:07:38,161 - INFO - Completed analysis for Zafirlukast
+2024-10-30 21:08:01,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:08:03,781 - INFO - Completed analysis for Theophylline
+2024-10-30 21:08:27,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:08:27,627 - INFO - Completed analysis for Roflumilast
+2024-10-30 21:08:49,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:08:49,830 - INFO - Completed analysis for Tacrolimus
+2024-10-30 21:09:13,053 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:09:14,326 - INFO - Completed analysis for Cyclosporine
+2024-10-30 21:09:40,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:09:40,972 - INFO - Completed analysis for Mycophenolate
+2024-10-30 21:10:08,434 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:10:11,070 - INFO - Completed analysis for Azathioprine
+2024-10-30 21:10:39,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:10:39,799 - INFO - Completed analysis for Sirolimus
+2024-10-30 21:11:05,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:11:07,108 - INFO - Completed analysis for Methotrexate
+2024-10-30 21:11:28,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:11:28,249 - INFO - Completed analysis for Cyclophosphamide
+2024-10-30 21:11:51,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:11:51,803 - INFO - Completed analysis for Tamoxifen
+2024-10-30 21:12:11,418 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:12:11,421 - INFO - Completed analysis for Letrozole
+2024-10-30 21:12:41,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 21:12:41,430 - INFO - Completed analysis for Capecitabine
+2024-10-30 21:12:41,442 - INFO - Successfully saved 98 analyses to marmar_analyses.json

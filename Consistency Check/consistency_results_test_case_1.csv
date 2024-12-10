@@ -1,0 +1,13 @@
+Field,Consistent,Details
+interactionRiskLevel,True,"Values: ['MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD', 'MILD']
+Most Common: MILD"
+generalExplanation,False,"Unique Values: 80
+Similarity: 1.00"
+detailedExplanation,False,"Unique Values: 100
+Similarity: 1.00"
+generalAdvice,False,"Unique Values: 95
+Similarity: 1.00"
+tailoredAdvice,False,"Unique Values: 100
+Similarity: 1.00"
+pharmacologicalExplanation,False,"Unique Values: 100
+Similarity: 1.00"

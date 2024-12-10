@@ -1,0 +1,47 @@
+ANOVA Results:
+F-statistic: 1.5617609243443775
+p-value: 0.1360186562848323
+
+
+Tukey's HSD Results:
+            Multiple Comparison of Means - Tukey HSD, FWER=0.05            
+===========================================================================
+      group1             group2       meandiff p-adj   lower  upper  reject
+---------------------------------------------------------------------------
+   Anti_Infectives         CNS_Agents  -0.0105    1.0 -0.1043 0.0833  False
+   Anti_Infectives     Cardiovascular   -0.033 0.9573 -0.1195 0.0534  False
+   Anti_Infectives Diabetes_Metabolic   -0.014    1.0 -0.1168 0.0887  False
+   Anti_Infectives   Gastrointestinal    0.007    1.0 -0.0957 0.1098  False
+   Anti_Infectives Immunosuppressants   0.0231 0.9998 -0.1062 0.1524  False
+   Anti_Infectives           Oncology    0.039 0.9902 -0.0903 0.1683  False
+   Anti_Infectives    Pain_Analgesics  -0.0022    1.0 -0.1049 0.1006  False
+   Anti_Infectives        Respiratory   0.0653 0.5539 -0.0374 0.1681  False
+        CNS_Agents     Cardiovascular  -0.0226 0.9964  -0.109 0.0639  False
+        CNS_Agents Diabetes_Metabolic  -0.0036    1.0 -0.1063 0.0992  False
+        CNS_Agents   Gastrointestinal   0.0175 0.9998 -0.0853 0.1202  False
+        CNS_Agents Immunosuppressants   0.0336 0.9964 -0.0957 0.1629  False
+        CNS_Agents           Oncology   0.0495 0.9568 -0.0798 0.1788  False
+        CNS_Agents    Pain_Analgesics   0.0083    1.0 -0.0945  0.111  False
+        CNS_Agents        Respiratory   0.0758 0.3424  -0.027 0.1785  False
+    Cardiovascular Diabetes_Metabolic    0.019 0.9995 -0.0771 0.1151  False
+    Cardiovascular   Gastrointestinal     0.04 0.9302 -0.0561 0.1361  False
+    Cardiovascular Immunosuppressants   0.0562 0.8914 -0.0679 0.1802  False
+    Cardiovascular           Oncology    0.072 0.6725  -0.052 0.1961  False
+    Cardiovascular    Pain_Analgesics   0.0308 0.9854 -0.0653 0.1269  False
+    Cardiovascular        Respiratory   0.0983 0.0404  0.0022 0.1944   True
+Diabetes_Metabolic   Gastrointestinal    0.021 0.9996 -0.0899  0.132  False
+Diabetes_Metabolic Immunosuppressants   0.0372  0.995 -0.0988 0.1731  False
+Diabetes_Metabolic           Oncology    0.053 0.9517 -0.0829  0.189  False
+Diabetes_Metabolic    Pain_Analgesics   0.0118    1.0 -0.0991 0.1228  False
+Diabetes_Metabolic        Respiratory   0.0793 0.3863 -0.0316 0.1903  False
+  Gastrointestinal Immunosuppressants   0.0161    1.0 -0.1198 0.1521  False
+  Gastrointestinal           Oncology    0.032 0.9982 -0.1039 0.1679  False
+  Gastrointestinal    Pain_Analgesics  -0.0092    1.0 -0.1202 0.1018  False
+  Gastrointestinal        Respiratory   0.0583 0.7807 -0.0527 0.1693  False
+Immunosuppressants           Oncology   0.0159    1.0 -0.1411 0.1728  False
+Immunosuppressants    Pain_Analgesics  -0.0253 0.9997 -0.1613 0.1106  False
+Immunosuppressants        Respiratory   0.0422 0.9883 -0.0938 0.1781  False
+          Oncology    Pain_Analgesics  -0.0412 0.9899 -0.1771 0.0947  False
+          Oncology        Respiratory   0.0263 0.9996 -0.1096 0.1622  False
+   Pain_Analgesics        Respiratory   0.0675 0.6135 -0.0435 0.1785  False
+---------------------------------------------------------------------------

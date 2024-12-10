@@ -1,0 +1,117 @@
+# Leveraging Artificial Intelligence to Mitigate Inappropriate Polypharmacy Risks: The MARMAR Approach
+
+**Author:** Ahmad Rufai Yusuf  
+**Institution:** Tomorrow University of Applied Sciences  
+**Department** Artificial Intelligence and Sustainable Technologies
+**Supervisor:** Dr. Jonathan Costa  
+**Date:** December 10, 2024  
+
+---
+
+## Overview
+
+This repository contains the code, data, and visualizations for my thesis: **"Leveraging Artificial Intelligence to Mitigate Inappropriate Polypharmacy Risks: The MARMAR Approach."** The project introduces MARMAR (Medication Alert and Risk Management Application for Rx Safety), as an AI-driven framework utilizing GPT-4 and ClinicalBERT for polypharmacy risk mitigation and drug interaction analysis.
+
+---
+
+## Features
+
+- **Consistency Analysis:** Evaluates semantic and functional consistency of AI-generated outputs using ClinicalBERT embeddings.
+- **Cross-Validation:** Compares MARMAR’s outputs with authoritative sources, such as DrugBank.
+- **Statistical Analysis:** Quantifies metrics like semantic similarity, content coverage, and technical term overlap.
+- **Visualizations:** Includes detailed performance metrics, heatmaps, and statistical summaries.
+- **User Feedback Analysis:** Captures user insights on usability and relevance through Likert-scale and open-ended feedback.
+
+---
+
+## Repository Structure
+Polypharmacy/
+├── Consistency Check/
+│   ├── consistency_check.log
+│   ├── consistency_results_test_case_1.csv
+│   ├── consistency_results_test_case_1.tex
+│   ├── similarity_analysis_test_case_1.csv
+│   ├── test_inputs_test_case_1.csv
+│   ├── test_inputs_test_case_1.tex
+│   ├── visualizations.ipynb
+├── Cross Validation Visuals/
+│   ├── category_performance_heatmap.png
+│   ├── comparison_heatmap.png
+│   ├── detailed_metrics.png
+│   ├── metric_correlations.png
+│   ├── overall_performance.png
+│   ├── performance_matrix.png
+│   ├── statistical_analysis.png
+├── .env
+├── .gitignore
+├── drug_validation_results.json
+├── Initial_Analysis.ipynb
+├── Marmar_extraction.py
+├── marmar_analyses.json
+├── marmar_validation.log
+├── statistical_results.txt
+├── Stricter_comparison.py
+├── strict_comparison_results.json
+├── requirements.txt
+└── README.md
+
+
+---
+
+## Getting Started
+
+1. **Clone the Repository**:
+git clone https://github.com/ahrufcodes/MARMAR-Thesis-Polypharmacy cd MARMAR-Thesis-Polypharmacy 
+
+
+2. **Set Up the Environment**:
+- Install required Python packages:
+  ```
+  pip install -r requirements.txt
+  ```
+- Add your OpenAI API key to the `.env` file, or add it directly
+  ```
+  OPENAI_API_KEY=your_key_here
+  ```
+
+3. **Run Consistency Analysis**:
+Execute the provided scripts to analyze MARMAR's output:
+
+
+4. **Visualize Results**:
+Open and run `visualizations.ipynb` in Jupyter Notebook to generate performance heatmaps and metrics for the consistency check.
+
+---
+
+## Key Results
+
+- **Consistency:** MARMAR demonstrated high semantic consistency across 100 iterations, with mean ClinicalBERT similarity scores > 0.97.
+- **Validation:** Strong alignment with DrugBank data (98.5% similarity in mechanism descriptions).
+- **User Feedback:** Average usability score of 4.2/5, highlighting a user-friendly interface and clinically relevant recommendations.
+
+---
+
+## Technologies Used
+
+- **Python:** Core programming language.
+- **OpenAI GPT-4:** For generating tailored drug interaction analyses.
+- **ClinicalBERT:** For evaluating semantic consistency.
+- **Pandas & NumPy:** For data processing and analysis.
+- **Matplotlib & Seaborn:** For generating visualizations.
+- **DrugBank Dataset:** Authoritative source for drug validation.
+
+---
+
+## Future Directions
+
+- Expand drug datasets and include more test cases.
+- Integrate real-time data using Retrieval-Augmented Generation (RAG).
+- Improve user experience with multi-language support and domain-specific adaptations.
+- Develop additional sub-systems tailored to specific patient demographics.
+
+---
+
+
+## Contact
+
+For questions or collaborations, contact **Ahmad Rufai Yusuf** at **ahmad-rufai.yusuf@campus.tomorrows.education**.

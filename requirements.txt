@@ -1,0 +1,12 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+fuzzywuzzy
+tqdm
+matplotlib
+seaborn
+tabulate
+
+# Note: ClinicalBERT is loaded from Hugging Face's transformers library as "medicalai/ClinicalBERT"

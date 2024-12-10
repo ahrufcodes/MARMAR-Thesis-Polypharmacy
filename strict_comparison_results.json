@@ -1,0 +1,2436 @@
+{
+  "detailed_results": {
+    "Lisinopril": {
+      "drug_name": "Lisinopril",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.231,
+          "weighted_score": 0.538
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.574,
+          "weighted_score": 0.624
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.533,
+          "weighted_score": 0.48
+        }
+      },
+      "average_weighted_score": 0.547
+    },
+    "Amlodipine": {
+      "drug_name": "Amlodipine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.325,
+          "weighted_score": 0.631
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.2,
+          "content_coverage": 0.197,
+          "weighted_score": 0.478
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.146,
+          "weighted_score": 0.385
+        }
+      },
+      "average_weighted_score": 0.498
+    },
+    "Metoprolol": {
+      "drug_name": "Metoprolol",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.593,
+          "weighted_score": 0.497
+        },
+        "effects": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.315,
+          "weighted_score": 0.427
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.213,
+          "weighted_score": 0.402
+        }
+      },
+      "average_weighted_score": 0.442
+    },
+    "Valsartan": {
+      "drug_name": "Valsartan",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.109,
+          "weighted_score": 0.577
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.221,
+          "weighted_score": 0.405
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.18,
+          "weighted_score": 0.392
+        }
+      },
+      "average_weighted_score": 0.458
+    },
+    "Hydrochlorothiazide": {
+      "drug_name": "Hydrochlorothiazide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.238,
+          "weighted_score": 0.406
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.516,
+          "weighted_score": 0.477
+        },
+        "safety": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.319,
+          "weighted_score": 0.426
+        }
+      },
+      "average_weighted_score": 0.436
+    },
+    "Warfarin": {
+      "drug_name": "Warfarin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.135,
+          "weighted_score": 0.383
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.115,
+          "weighted_score": 0.378
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.075,
+          "weighted_score": 0.367
+        }
+      },
+      "average_weighted_score": 0.376
+    },
+    "Apixaban": {
+      "drug_name": "Apixaban",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.586,
+          "weighted_score": 0.495
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.194,
+          "weighted_score": 0.397
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.141,
+          "weighted_score": 0.383
+        }
+      },
+      "average_weighted_score": 0.425
+    },
+    "Clopidogrel": {
+      "drug_name": "Clopidogrel",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.662,
+          "weighted_score": 0.714
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.435,
+          "weighted_score": 0.657
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.321,
+          "weighted_score": 0.425
+        }
+      },
+      "average_weighted_score": 0.599
+    },
+    "Rivaroxaban": {
+      "drug_name": "Rivaroxaban",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.363,
+          "weighted_score": 0.44
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.336,
+          "weighted_score": 0.434
+        },
+        "safety": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.437,
+          "weighted_score": 0.459
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Dabigatran": {
+      "drug_name": "Dabigatran",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.0,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.0,
+          "weighted_score": 0.0
+        },
+        "effects": {
+          "semantic_similarity": 0.0,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.0,
+          "weighted_score": 0.0
+        },
+        "safety": {
+          "semantic_similarity": 0.0,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.0,
+          "weighted_score": 0.0
+        }
+      },
+      "average_weighted_score": 0.0
+    },
+    "Atorvastatin": {
+      "drug_name": "Atorvastatin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.205,
+          "weighted_score": 0.399
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.146,
+          "weighted_score": 0.386
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.157,
+          "weighted_score": 0.385
+        }
+      },
+      "average_weighted_score": 0.39
+    },
+    "Simvastatin": {
+      "drug_name": "Simvastatin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.667,
+          "content_coverage": 0.153,
+          "weighted_score": 0.654
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.132,
+          "weighted_score": 0.483
+        },
+        "safety": {
+          "semantic_similarity": 0.0,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.0,
+          "weighted_score": 0.0
+        }
+      },
+      "average_weighted_score": 0.379
+    },
+    "Rosuvastatin": {
+      "drug_name": "Rosuvastatin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.75,
+          "content_coverage": 0.211,
+          "weighted_score": 0.701
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.115,
+          "weighted_score": 0.378
+        },
+        "safety": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.425,
+          "weighted_score": 0.655
+        }
+      },
+      "average_weighted_score": 0.578
+    },
+    "Pravastatin": {
+      "drug_name": "Pravastatin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.6,
+          "content_coverage": 0.476,
+          "weighted_score": 0.705
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.425,
+          "weighted_score": 0.455
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.311,
+          "weighted_score": 0.425
+        }
+      },
+      "average_weighted_score": 0.528
+    },
+    "Pitavastatin": {
+      "drug_name": "Pitavastatin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.28,
+          "weighted_score": 0.618
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.162,
+          "weighted_score": 0.39
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.088,
+          "weighted_score": 0.37
+        }
+      },
+      "average_weighted_score": 0.459
+    },
+    "Amiodarone": {
+      "drug_name": "Amiodarone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.293,
+          "weighted_score": 0.422
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.439,
+          "weighted_score": 0.459
+        },
+        "safety": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.449,
+          "weighted_score": 0.461
+        }
+      },
+      "average_weighted_score": 0.447
+    },
+    "Digoxin": {
+      "drug_name": "Digoxin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.22,
+          "weighted_score": 0.403
+        },
+        "effects": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.476,
+          "weighted_score": 0.467
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.444,
+          "weighted_score": 0.859
+        }
+      },
+      "average_weighted_score": 0.576
+    },
+    "Diltiazem": {
+      "drug_name": "Diltiazem",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.158,
+          "weighted_score": 0.387
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.169,
+          "weighted_score": 0.391
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.073,
+          "weighted_score": 0.367
+        }
+      },
+      "average_weighted_score": 0.382
+    },
+    "Verapamil": {
+      "drug_name": "Verapamil",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.165,
+          "weighted_score": 0.39
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.487,
+          "weighted_score": 0.469
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.253,
+          "weighted_score": 0.412
+        }
+      },
+      "average_weighted_score": 0.424
+    },
+    "Spironolactone": {
+      "drug_name": "Spironolactone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.279,
+          "weighted_score": 0.519
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.678,
+          "weighted_score": 0.719
+        },
+        "safety": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.317,
+          "weighted_score": 0.428
+        }
+      },
+      "average_weighted_score": 0.555
+    },
+    "Sertraline": {
+      "drug_name": "Sertraline",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.242,
+          "weighted_score": 0.409
+        },
+        "effects": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.385,
+          "weighted_score": 0.444
+        },
+        "safety": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.214,
+          "weighted_score": 0.4
+        }
+      },
+      "average_weighted_score": 0.418
+    },
+    "Fluoxetine": {
+      "drug_name": "Fluoxetine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.291,
+          "weighted_score": 0.42
+        },
+        "effects": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.566,
+          "weighted_score": 0.488
+        },
+        "safety": {
+          "semantic_similarity": 0.985,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.262,
+          "weighted_score": 0.81
+        }
+      },
+      "average_weighted_score": 0.573
+    },
+    "Venlafaxine": {
+      "drug_name": "Venlafaxine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.483,
+          "weighted_score": 0.468
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.429,
+          "weighted_score": 0.456
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.092,
+          "weighted_score": 0.37
+        }
+      },
+      "average_weighted_score": 0.431
+    },
+    "Duloxetine": {
+      "drug_name": "Duloxetine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.149,
+          "weighted_score": 0.487
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.295,
+          "weighted_score": 0.423
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.134,
+          "weighted_score": 0.482
+        }
+      },
+      "average_weighted_score": 0.464
+    },
+    "Bupropion": {
+      "drug_name": "Bupropion",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.149,
+          "weighted_score": 0.386
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.262,
+          "weighted_score": 0.548
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.197,
+          "weighted_score": 0.397
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Mirtazapine": {
+      "drug_name": "Mirtazapine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.21,
+          "weighted_score": 0.401
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.231,
+          "weighted_score": 0.407
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.089,
+          "weighted_score": 0.371
+        }
+      },
+      "average_weighted_score": 0.393
+    },
+    "Quetiapine": {
+      "drug_name": "Quetiapine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.35,
+          "weighted_score": 0.437
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.461,
+          "weighted_score": 0.465
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.193,
+          "weighted_score": 0.397
+        }
+      },
+      "average_weighted_score": 0.433
+    },
+    "Risperidone": {
+      "drug_name": "Risperidone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.212,
+          "weighted_score": 0.502
+        },
+        "effects": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.608,
+          "weighted_score": 0.9
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.305,
+          "weighted_score": 0.424
+        }
+      },
+      "average_weighted_score": 0.609
+    },
+    "Olanzapine": {
+      "drug_name": "Olanzapine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.275,
+          "weighted_score": 0.551
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.261,
+          "weighted_score": 0.547
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.098,
+          "weighted_score": 0.373
+        }
+      },
+      "average_weighted_score": 0.49
+    },
+    "Haloperidol": {
+      "drug_name": "Haloperidol",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.667,
+          "content_coverage": 0.127,
+          "weighted_score": 0.648
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.193,
+          "weighted_score": 0.398
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.128,
+          "weighted_score": 0.379
+        }
+      },
+      "average_weighted_score": 0.475
+    },
+    "Clozapine": {
+      "drug_name": "Clozapine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.245,
+          "weighted_score": 0.41
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.253,
+          "weighted_score": 0.412
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.082,
+          "weighted_score": 0.37
+        }
+      },
+      "average_weighted_score": 0.397
+    },
+    "Alprazolam": {
+      "drug_name": "Alprazolam",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.075,
+          "weighted_score": 0.366
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.26,
+          "weighted_score": 0.414
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.355,
+          "weighted_score": 0.435
+        }
+      },
+      "average_weighted_score": 0.405
+    },
+    "Diazepam": {
+      "drug_name": "Diazepam",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.505,
+          "weighted_score": 0.876
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.294,
+          "weighted_score": 0.422
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.11,
+          "weighted_score": 0.376
+        }
+      },
+      "average_weighted_score": 0.558
+    },
+    "Gabapentin": {
+      "drug_name": "Gabapentin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.225,
+          "weighted_score": 0.603
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.342,
+          "weighted_score": 0.434
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.313,
+          "weighted_score": 0.425
+        }
+      },
+      "average_weighted_score": 0.487
+    },
+    "Pregabalin": {
+      "drug_name": "Pregabalin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.28,
+          "weighted_score": 0.817
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.534,
+          "weighted_score": 0.482
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.342,
+          "weighted_score": 0.567
+        }
+      },
+      "average_weighted_score": 0.622
+    },
+    "Ciprofloxacin": {
+      "drug_name": "Ciprofloxacin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.608,
+          "weighted_score": 0.5
+        },
+        "effects": {
+          "semantic_similarity": 0.988,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.509,
+          "weighted_score": 0.473
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.142,
+          "weighted_score": 0.381
+        }
+      },
+      "average_weighted_score": 0.451
+    },
+    "Azithromycin": {
+      "drug_name": "Azithromycin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.371,
+          "weighted_score": 0.442
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.306,
+          "weighted_score": 0.426
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.118,
+          "weighted_score": 0.378
+        }
+      },
+      "average_weighted_score": 0.415
+    },
+    "Clarithromycin": {
+      "drug_name": "Clarithromycin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.353,
+          "weighted_score": 0.437
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.395,
+          "weighted_score": 0.447
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.156,
+          "weighted_score": 0.387
+        }
+      },
+      "average_weighted_score": 0.424
+    },
+    "Rifampin": {
+      "drug_name": "Rifampin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.335,
+          "weighted_score": 0.433
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.588,
+          "weighted_score": 0.497
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.224,
+          "weighted_score": 0.404
+        }
+      },
+      "average_weighted_score": 0.445
+    },
+    "Doxycycline": {
+      "drug_name": "Doxycycline",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.315,
+          "weighted_score": 0.425
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.376,
+          "weighted_score": 0.443
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.706,
+          "weighted_score": 0.525
+        }
+      },
+      "average_weighted_score": 0.464
+    },
+    "Amoxicillin": {
+      "drug_name": "Amoxicillin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.419,
+          "weighted_score": 0.585
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.489,
+          "weighted_score": 0.603
+        },
+        "safety": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.492,
+          "weighted_score": 0.469
+        }
+      },
+      "average_weighted_score": 0.552
+    },
+    "Metronidazole": {
+      "drug_name": "Metronidazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.237,
+          "weighted_score": 0.408
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.309,
+          "weighted_score": 0.426
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.198,
+          "weighted_score": 0.398
+        }
+      },
+      "average_weighted_score": 0.411
+    },
+    "Fluconazole": {
+      "drug_name": "Fluconazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.323,
+          "weighted_score": 0.63
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.236,
+          "weighted_score": 0.541
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.139,
+          "weighted_score": 0.383
+        }
+      },
+      "average_weighted_score": 0.518
+    },
+    "Itraconazole": {
+      "drug_name": "Itraconazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.259,
+          "weighted_score": 0.612
+        },
+        "effects": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.336,
+          "weighted_score": 0.43
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.312,
+          "weighted_score": 0.425
+        }
+      },
+      "average_weighted_score": 0.489
+    },
+    "Voriconazole": {
+      "drug_name": "Voriconazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.334,
+          "weighted_score": 0.433
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.301,
+          "weighted_score": 0.424
+        },
+        "safety": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.247,
+          "weighted_score": 0.411
+        }
+      },
+      "average_weighted_score": 0.423
+    },
+    "Posaconazole": {
+      "drug_name": "Posaconazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 1.0,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.935,
+          "weighted_score": 0.984
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.529,
+          "weighted_score": 0.482
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.455,
+          "weighted_score": 0.462
+        }
+      },
+      "average_weighted_score": 0.643
+    },
+    "Acyclovir": {
+      "drug_name": "Acyclovir",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.301,
+          "weighted_score": 0.422
+        },
+        "effects": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.497,
+          "weighted_score": 0.472
+        },
+        "safety": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.65,
+          "weighted_score": 0.509
+        }
+      },
+      "average_weighted_score": 0.468
+    },
+    "Valacyclovir": {
+      "drug_name": "Valacyclovir",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.257,
+          "weighted_score": 0.814
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.161,
+          "weighted_score": 0.39
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.186,
+          "weighted_score": 0.529
+        }
+      },
+      "average_weighted_score": 0.578
+    },
+    "Oseltamivir": {
+      "drug_name": "Oseltamivir",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.417,
+          "weighted_score": 0.454
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.407,
+          "weighted_score": 0.451
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.31,
+          "weighted_score": 0.426
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Metformin": {
+      "drug_name": "Metformin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.6,
+          "content_coverage": 0.182,
+          "weighted_score": 0.635
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.28,
+          "weighted_score": 0.419
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.08,
+          "weighted_score": 0.368
+        }
+      },
+      "average_weighted_score": 0.474
+    },
+    "Glipizide": {
+      "drug_name": "Glipizide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.197,
+          "weighted_score": 0.499
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.204,
+          "weighted_score": 0.401
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.207,
+          "weighted_score": 0.4
+        }
+      },
+      "average_weighted_score": 0.433
+    },
+    "Sitagliptin": {
+      "drug_name": "Sitagliptin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.671,
+          "weighted_score": 0.517
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.253,
+          "weighted_score": 0.411
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.218,
+          "weighted_score": 0.403
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Empagliflozin": {
+      "drug_name": "Empagliflozin",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.217,
+          "weighted_score": 0.602
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.524,
+          "weighted_score": 0.48
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.424,
+          "weighted_score": 0.454
+        }
+      },
+      "average_weighted_score": 0.512
+    },
+    "Liraglutide": {
+      "drug_name": "Liraglutide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.542,
+          "weighted_score": 0.485
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.602,
+          "weighted_score": 0.5
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.148,
+          "weighted_score": 0.385
+        }
+      },
+      "average_weighted_score": 0.457
+    },
+    "Insulin glargine": {
+      "drug_name": "Insulin glargine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.223,
+          "weighted_score": 0.405
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.339,
+          "weighted_score": 0.434
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.19,
+          "weighted_score": 0.396
+        }
+      },
+      "average_weighted_score": 0.412
+    },
+    "Insulin lispro": {
+      "drug_name": "Insulin lispro",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.225,
+          "weighted_score": 0.406
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.177,
+          "weighted_score": 0.394
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.109,
+          "weighted_score": 0.376
+        }
+      },
+      "average_weighted_score": 0.392
+    },
+    "Levothyroxine": {
+      "drug_name": "Levothyroxine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.1,
+          "weighted_score": 0.474
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.123,
+          "weighted_score": 0.38
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.448,
+          "weighted_score": 0.461
+        }
+      },
+      "average_weighted_score": 0.438
+    },
+    "Methimazole": {
+      "drug_name": "Methimazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.152,
+          "weighted_score": 0.386
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.523,
+          "weighted_score": 0.68
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.279,
+          "weighted_score": 0.417
+        }
+      },
+      "average_weighted_score": 0.494
+    },
+    "Pioglitazone": {
+      "drug_name": "Pioglitazone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.563,
+          "weighted_score": 0.889
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.492,
+          "weighted_score": 0.472
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.441,
+          "weighted_score": 0.458
+        }
+      },
+      "average_weighted_score": 0.606
+    },
+    "Morphine": {
+      "drug_name": "Morphine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.417,
+          "weighted_score": 0.453
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.387,
+          "weighted_score": 0.445
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.259,
+          "weighted_score": 0.411
+        }
+      },
+      "average_weighted_score": 0.436
+    },
+    "Oxycodone": {
+      "drug_name": "Oxycodone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.212,
+          "weighted_score": 0.399
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.326,
+          "weighted_score": 0.43
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.126,
+          "weighted_score": 0.377
+        }
+      },
+      "average_weighted_score": 0.402
+    },
+    "Tramadol": {
+      "drug_name": "Tramadol",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.25,
+          "content_coverage": 0.201,
+          "weighted_score": 0.498
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.083,
+          "weighted_score": 0.37
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.434,
+          "weighted_score": 0.457
+        }
+      },
+      "average_weighted_score": 0.442
+    },
+    "Hydromorphone": {
+      "drug_name": "Hydromorphone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.393,
+          "weighted_score": 0.648
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.305,
+          "weighted_score": 0.425
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.166,
+          "weighted_score": 0.389
+        }
+      },
+      "average_weighted_score": 0.487
+    },
+    "Fentanyl": {
+      "drug_name": "Fentanyl",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.362,
+          "weighted_score": 0.437
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.602,
+          "weighted_score": 0.498
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.2,
+          "weighted_score": 0.397
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Ibuprofen": {
+      "drug_name": "Ibuprofen",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.359,
+          "weighted_score": 0.439
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.178,
+          "weighted_score": 0.394
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.441,
+          "weighted_score": 0.459
+        }
+      },
+      "average_weighted_score": 0.431
+    },
+    "Celecoxib": {
+      "drug_name": "Celecoxib",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.231,
+          "weighted_score": 0.539
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.243,
+          "weighted_score": 0.61
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.307,
+          "weighted_score": 0.626
+        }
+      },
+      "average_weighted_score": 0.592
+    },
+    "Meloxicam": {
+      "drug_name": "Meloxicam",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.53,
+          "weighted_score": 0.481
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.385,
+          "weighted_score": 0.445
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.395,
+          "weighted_score": 0.446
+        }
+      },
+      "average_weighted_score": 0.457
+    },
+    "Acetaminophen": {
+      "drug_name": "Acetaminophen",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.312,
+          "weighted_score": 0.426
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.511,
+          "weighted_score": 0.477
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.074,
+          "weighted_score": 0.5
+        }
+      },
+      "average_weighted_score": 0.468
+    },
+    "Omeprazole": {
+      "drug_name": "Omeprazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.197,
+          "weighted_score": 0.598
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.27,
+          "weighted_score": 0.417
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.106,
+          "weighted_score": 0.374
+        }
+      },
+      "average_weighted_score": 0.463
+    },
+    "Pantoprazole": {
+      "drug_name": "Pantoprazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.29,
+          "weighted_score": 0.421
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.4,
+          "content_coverage": 0.275,
+          "weighted_score": 0.578
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.108,
+          "weighted_score": 0.375
+        }
+      },
+      "average_weighted_score": 0.458
+    },
+    "Esomeprazole": {
+      "drug_name": "Esomeprazole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.4,
+          "content_coverage": 0.614,
+          "weighted_score": 0.663
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.6,
+          "content_coverage": 0.298,
+          "weighted_score": 0.664
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.311,
+          "weighted_score": 0.424
+        }
+      },
+      "average_weighted_score": 0.584
+    },
+    "Famotidine": {
+      "drug_name": "Famotidine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.216,
+          "weighted_score": 0.403
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.363,
+          "weighted_score": 0.44
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.389,
+          "weighted_score": 0.846
+        }
+      },
+      "average_weighted_score": 0.563
+    },
+    "Ondansetron": {
+      "drug_name": "Ondansetron",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.439,
+          "weighted_score": 0.859
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.113,
+          "weighted_score": 0.377
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.143,
+          "weighted_score": 0.384
+        }
+      },
+      "average_weighted_score": 0.54
+    },
+    "Metoclopramide": {
+      "drug_name": "Metoclopramide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.546,
+          "weighted_score": 0.486
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.623,
+          "weighted_score": 0.505
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.119,
+          "weighted_score": 0.378
+        }
+      },
+      "average_weighted_score": 0.456
+    },
+    "Dicyclomine": {
+      "drug_name": "Dicyclomine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.628,
+          "weighted_score": 0.505
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.457,
+          "weighted_score": 0.462
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.245,
+          "weighted_score": 0.407
+        }
+      },
+      "average_weighted_score": 0.458
+    },
+    "Sulfasalazine": {
+      "drug_name": "Sulfasalazine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.259,
+          "weighted_score": 0.411
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.461,
+          "weighted_score": 0.464
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.068,
+          "weighted_score": 0.365
+        }
+      },
+      "average_weighted_score": 0.413
+    },
+    "Mesalamine": {
+      "drug_name": "Mesalamine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.217,
+          "weighted_score": 0.401
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.26,
+          "weighted_score": 0.414
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.145,
+          "weighted_score": 0.518
+        }
+      },
+      "average_weighted_score": 0.444
+    },
+    "Prucalopride": {
+      "drug_name": "Prucalopride",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.378,
+          "weighted_score": 0.443
+        },
+        "effects": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.253,
+          "weighted_score": 0.41
+        },
+        "safety": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.318,
+          "weighted_score": 0.626
+        }
+      },
+      "average_weighted_score": 0.493
+    },
+    "Montelukast": {
+      "drug_name": "Montelukast",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.206,
+          "weighted_score": 0.799
+        },
+        "effects": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.267,
+          "weighted_score": 0.547
+        },
+        "safety": {
+          "semantic_similarity": 0.988,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.319,
+          "weighted_score": 0.626
+        }
+      },
+      "average_weighted_score": 0.657
+    },
+    "Fluticasone": {
+      "drug_name": "Fluticasone",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.624,
+          "weighted_score": 0.505
+        },
+        "effects": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.336,
+          "weighted_score": 0.431
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.122,
+          "weighted_score": 0.378
+        }
+      },
+      "average_weighted_score": 0.438
+    },
+    "Budesonide": {
+      "drug_name": "Budesonide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.405,
+          "weighted_score": 0.582
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.544,
+          "weighted_score": 0.484
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.313,
+          "weighted_score": 0.425
+        }
+      },
+      "average_weighted_score": 0.497
+    },
+    "Salbutamol": {
+      "drug_name": "Salbutamol",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.124,
+          "weighted_score": 0.511
+        },
+        "effects": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.285,
+          "weighted_score": 0.417
+        },
+        "safety": {
+          "semantic_similarity": 0.987,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.069,
+          "weighted_score": 0.363
+        }
+      },
+      "average_weighted_score": 0.43
+    },
+    "Tiotropium": {
+      "drug_name": "Tiotropium",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.7,
+          "weighted_score": 0.923
+        },
+        "effects": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.413,
+          "weighted_score": 0.451
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.399,
+          "weighted_score": 0.446
+        }
+      },
+      "average_weighted_score": 0.607
+    },
+    "Salmeterol": {
+      "drug_name": "Salmeterol",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.359,
+          "weighted_score": 0.436
+        },
+        "effects": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.524,
+          "weighted_score": 0.478
+        },
+        "safety": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.393,
+          "weighted_score": 0.445
+        }
+      },
+      "average_weighted_score": 0.453
+    },
+    "Ipratropium": {
+      "drug_name": "Ipratropium",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.304,
+          "weighted_score": 0.424
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.327,
+          "weighted_score": 0.431
+        },
+        "safety": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.31,
+          "weighted_score": 0.824
+        }
+      },
+      "average_weighted_score": 0.56
+    },
+    "Zafirlukast": {
+      "drug_name": "Zafirlukast",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.59,
+          "weighted_score": 0.897
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.402,
+          "weighted_score": 0.849
+        },
+        "safety": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.147,
+          "weighted_score": 0.386
+        }
+      },
+      "average_weighted_score": 0.711
+    },
+    "Theophylline": {
+      "drug_name": "Theophylline",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.312,
+          "weighted_score": 0.428
+        },
+        "effects": {
+          "semantic_similarity": 0.998,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.475,
+          "weighted_score": 0.468
+        },
+        "safety": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.204,
+          "weighted_score": 0.399
+        }
+      },
+      "average_weighted_score": 0.432
+    },
+    "Roflumilast": {
+      "drug_name": "Roflumilast",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.487,
+          "weighted_score": 0.671
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.597,
+          "weighted_score": 0.499
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.38,
+          "weighted_score": 0.844
+        }
+      },
+      "average_weighted_score": 0.671
+    },
+    "Tacrolimus": {
+      "drug_name": "Tacrolimus",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.202,
+          "weighted_score": 0.8
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.337,
+          "weighted_score": 0.434
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.482,
+          "weighted_score": 0.469
+        }
+      },
+      "average_weighted_score": 0.568
+    },
+    "Cyclosporine": {
+      "drug_name": "Cyclosporine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.196,
+          "weighted_score": 0.398
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.498,
+          "weighted_score": 0.473
+        },
+        "safety": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.269,
+          "weighted_score": 0.414
+        }
+      },
+      "average_weighted_score": 0.428
+    },
+    "Mycophenolate": {
+      "drug_name": "Mycophenolate",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.294,
+          "weighted_score": 0.422
+        },
+        "effects": {
+          "semantic_similarity": 0.997,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.289,
+          "weighted_score": 0.421
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.138,
+          "weighted_score": 0.583
+        }
+      },
+      "average_weighted_score": 0.475
+    },
+    "Azathioprine": {
+      "drug_name": "Azathioprine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.474,
+          "weighted_score": 0.465
+        },
+        "effects": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.522,
+          "weighted_score": 0.478
+        },
+        "safety": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.604,
+          "weighted_score": 0.498
+        }
+      },
+      "average_weighted_score": 0.48
+    },
+    "Sirolimus": {
+      "drug_name": "Sirolimus",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.355,
+          "weighted_score": 0.838
+        },
+        "effects": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.273,
+          "weighted_score": 0.417
+        },
+        "safety": {
+          "semantic_similarity": 0.996,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.37,
+          "weighted_score": 0.441
+        }
+      },
+      "average_weighted_score": 0.565
+    },
+    "Methotrexate": {
+      "drug_name": "Methotrexate",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.994,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.322,
+          "weighted_score": 0.428
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.394,
+          "weighted_score": 0.446
+        },
+        "safety": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.207,
+          "weighted_score": 0.398
+        }
+      },
+      "average_weighted_score": 0.424
+    },
+    "Cyclophosphamide": {
+      "drug_name": "Cyclophosphamide",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.992,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.436,
+          "weighted_score": 0.456
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.354,
+          "weighted_score": 0.438
+        },
+        "safety": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.448,
+          "weighted_score": 0.86
+        }
+      },
+      "average_weighted_score": 0.585
+    },
+    "Tamoxifen": {
+      "drug_name": "Tamoxifen",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.99,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.278,
+          "weighted_score": 0.549
+        },
+        "effects": {
+          "semantic_similarity": 0.993,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.503,
+          "weighted_score": 0.607
+        },
+        "safety": {
+          "semantic_similarity": 0.988,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.369,
+          "weighted_score": 0.438
+        }
+      },
+      "average_weighted_score": 0.531
+    },
+    "Letrozole": {
+      "drug_name": "Letrozole",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.989,
+          "technical_term_overlap": 1.0,
+          "content_coverage": 0.379,
+          "weighted_score": 0.841
+        },
+        "effects": {
+          "semantic_similarity": 0.999,
+          "technical_term_overlap": 0.333,
+          "content_coverage": 0.446,
+          "weighted_score": 0.594
+        },
+        "safety": {
+          "semantic_similarity": 0.983,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.236,
+          "weighted_score": 0.403
+        }
+      },
+      "average_weighted_score": 0.613
+    },
+    "Capecitabine": {
+      "drug_name": "Capecitabine",
+      "detailed_scores": {
+        "mechanism": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.5,
+          "content_coverage": 0.09,
+          "weighted_score": 0.571
+        },
+        "effects": {
+          "semantic_similarity": 0.991,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.18,
+          "weighted_score": 0.392
+        },
+        "safety": {
+          "semantic_similarity": 0.995,
+          "technical_term_overlap": 0.0,
+          "content_coverage": 0.078,
+          "weighted_score": 0.368
+        }
+      },
+      "average_weighted_score": 0.444
+    }
+  },
+  "summary_statistics": {
+    "mechanism": {
+      "semantic": {
+        "mean": 0.985,
+        "std": 0.1,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "technical": {
+        "mean": 0.26,
+        "std": 0.348,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "coverage": {
+        "mean": 0.326,
+        "std": 0.164,
+        "min": 0.0,
+        "max": 0.935
+      },
+      "weighted": {
+        "mean": 0.531,
+        "std": 0.159,
+        "min": 0.0,
+        "max": 0.984
+      }
+    },
+    "effects": {
+      "semantic": {
+        "mean": 0.986,
+        "std": 0.1,
+        "min": 0.0,
+        "max": 0.999
+      },
+      "technical": {
+        "mean": 0.083,
+        "std": 0.198,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "coverage": {
+        "mean": 0.355,
+        "std": 0.146,
+        "min": 0.0,
+        "max": 0.678
+      },
+      "weighted": {
+        "mean": 0.467,
+        "std": 0.103,
+        "min": 0.0,
+        "max": 0.9
+      }
+    },
+    "safety": {
+      "semantic": {
+        "mean": 0.973,
+        "std": 0.14,
+        "min": 0.0,
+        "max": 0.998
+      },
+      "technical": {
+        "mean": 0.103,
+        "std": 0.262,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "coverage": {
+        "mean": 0.254,
+        "std": 0.146,
+        "min": 0.0,
+        "max": 0.706
+      },
+      "weighted": {
+        "mean": 0.445,
+        "std": 0.133,
+        "min": 0.0,
+        "max": 0.86
+      }
+    }
+  }
+}
